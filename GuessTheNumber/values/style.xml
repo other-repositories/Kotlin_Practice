@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Другие стили -->
+
+    <!-- Ваш стиль -->
+    <style name="Theme.MyApplication" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Ваши настройки стиля -->
+    </style>
+
+</resources>
